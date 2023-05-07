@@ -1,5 +1,4 @@
 import java.util.*
-import kotlin.streams.toList
 
 fun main() {
 	val productList = mutableListOf<Product>()

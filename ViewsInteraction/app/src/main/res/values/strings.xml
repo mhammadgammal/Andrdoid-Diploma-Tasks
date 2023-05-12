@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Views Interaction</string>
+    <string name="name">Name</string>
+    <string name="send">SEND</string>
+    <string name="hello_user">Hello, User</string>
+    <string name="welcome">Welcome, You are logged in</string>
+</resources>
